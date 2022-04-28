@@ -24,7 +24,7 @@ body {
 }
 
 canvas {
-    border: 5px solid rgb(238, 154, 154);
+    border: 5px solid rgb(224, 66, 66);
     border-radius: 20px;
-    box-shadow: 5px 5px 5px rgb(209, 132, 132);
+    box-shadow: 5px 5px 5px rgb(226, 62, 62);
 }
